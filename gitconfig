@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cvs.xowii@gmail.com
+	name = Christian von Storch
